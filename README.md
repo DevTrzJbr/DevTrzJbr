@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi guys eu sou o João Víctor, vulgo Tarzan by my friends. 
 
-<!--
-**DevTrzJbr/DevTrzJbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Atualmente estou cursando Ciência da Computação na UVV 
+- 🎮 Tenho grande interesse em Games: FPS, Survival Horror entre outros
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/DevTrzJbr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTrzJbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTrzJbr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="right" padding-right="50px" alt="Tarzan-gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4e/6f/b6/4e6fb61406440ae68fd1d4fcc6810339.gif">
+</div>
+ 
+<div> 
+  <a href="https://www.instagram.com/dev_iniciante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaovicantunes/?trk=public-profile-join-page" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
