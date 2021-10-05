@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/DevTrzJbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTrzJbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTrzJbr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTrzJbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTrzJbr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" padding-right="50px" alt="Tarzan-gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4e/6f/b6/4e6fb61406440ae68fd1d4fcc6810339.gif">
