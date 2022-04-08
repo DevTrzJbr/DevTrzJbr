@@ -2,6 +2,7 @@
 
 - 👨‍💻 Atualmente estou cursando Ciência da Computação na UVV 
 - 🎮 Tenho grande interesse em Games: FPS, Survival Horror entre outros
+- 🦾 A área que mais me chama atenção é o Back-end, toda parte de operação é um grande mundo mágico.
 
 <div align="center">
   <a href="https://github.com/DevTrzJbr">
