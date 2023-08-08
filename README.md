@@ -1,4 +1,4 @@
-### Hi guys eu sou o João Víctor, vulgo Tarzan by my friends. 
+### Hi guys eu sou o João Víctor, também conhecido como Tarzan by my friends. 
 
 - 👨‍💻 Atualmente estou cursando Ciência da Computação na UVV 
 - 🎮 Tenho grande interesse em Games: FPS, Survival Horror entre outros
